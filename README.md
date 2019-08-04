@@ -11,6 +11,6 @@ The solution is based on Tensorflow and OpenCV with a python (Flask) based serve
 ## Instructions
  - [X] Install Python 
  - [X] Install the following packages using Pip : flask, pafy, youtube-dl, tensorflow, opencv-python, pillow
- - [X] download the model files from the url [Drive Link](https://drive.google.com/drive/u/0/folders/18-7qTKQWR3470GytQueJKJtbDwipx41U)
- - [X] Run the server.py file and access the url [localhost](http://localhost:5000/)
+ - [X] download the model files from the url [Drive Link](https://drive.google.com/drive/u/0/folders/18-7qTKQWR3470GytQueJKJtbDwipx41U) into the solution folder
+ - [X] Run the server.py file and access the [localhost](http://localhost:5000/)
  - [X] The Live stream of data from the news channel will appear on the screen without the background
